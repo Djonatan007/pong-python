@@ -296,6 +296,12 @@ def reset_game():
     ball_dx, ball_dy = BALL_SPEED, BALL_SPEED
     score_a, score_b = 0, 0
 ```
+O código apresentado define uma função chamada reset_game() que é responsável por reiniciar as variáveis relacionadas ao jogo Pong.
+
+- FSM
+
+<img type="img" src="audios\fsm.jpg">
+
 
 
 
